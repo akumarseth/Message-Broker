@@ -1,7 +1,7 @@
 
-## RUN cd emqx_mqtt/emqx_mosquitto_docker
+#### RUN cd emqx_mqtt/emqx_mosquitto_docker
 
-## RUN docker-compose -f emqx_docker-compose.yaml up -d
+#### RUN docker-compose -f emqx_docker-compose.yaml up -d
 
 #### Default Usrname - admin
 #### Default Password - public
